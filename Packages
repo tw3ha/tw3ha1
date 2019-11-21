@@ -1,0 +1,15 @@
+
+Package: com.yourepo.tw3ha 
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: tw3ha
+Depends: mobilesubstrate, ws.hbang.common 
+Conflicts: t
+Filename: debs/me.yourepo.tw3ha_0.2.3_iphoneos-arm.deb
+Size: 68142
+MD5sum: e298eb44efeb2d45924784725d425d7b
+SHA1: 73f79fbafdf5fef0e517af699d2eb3c26e89363c
+SHA256: afe82ed760c1927b26c55ff6f15bb9380dcf8ddda9f4511bea8876bb973ed8f6
+Section: Tweaks
+Depiction: https://github.com/tw3ha/tw3ha1 
+Name: tw3ha 
