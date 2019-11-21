@@ -4,7 +4,7 @@ Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: tw3ha
 Depends: mobilesubstrate, ws.hbang.common 
-Conflicts: t
+Conflicts: 
 Filename: debs/me.yourepo.tw3ha_0.2.3_iphoneos-arm.deb
 Size: 68142
 MD5sum: e298eb44efeb2d45924784725d425d7b
